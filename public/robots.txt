@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://www.nuyu-dental.co.uk/sitemap.xml
