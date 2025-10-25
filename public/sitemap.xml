@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- About Section -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/about-us</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/about-us/why-choose-us</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/about-us/team</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/about-us/practice-gallery</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/about-us/patient-journey</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Contact & Stories -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/contact-us</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/patient-stories</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/complaint-policy</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.51</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/terms-conditions</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.51</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/privacy-cookie-policy</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.51</priority>
+  </url>
+
+  <!-- Pricing Section -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/our-pricing</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/our-pricing/fees</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/our-pricing/dental-plans</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Treatments Overview -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Straighten & Align -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/straighten-align</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/straighten-align/invisalign</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/straighten-align/adult-braces</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/straighten-align/kids-braces</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Prevent & Protect -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/prevent-protect</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/prevent-protect/smile-clean</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/prevent-protect/oral-health-assessment</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/prevent-protect/implants-bonding</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Whiten & Enhance -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/whiten-enhance</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/whiten-enhance/teeth-whitening</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/whiten-enhance/veneers</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/whiten-enhance/composite-bonding</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/whiten-enhance/smile-makeover</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Everyday Dentistry -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/everyday-dentistry/fillings</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/everyday-dentistry/root-canal</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/everyday-dentistry/dental-crowns</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/everyday-dentistry/emergency</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Implants & Replacements -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/implant-replace</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/implant-replace/dental-implants</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/implant-replace/full-arch-implants</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/implant-replace/dentures</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Aesthetic & Confidence -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/aesthetics-body-confidence</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/aesthetics-body-confidence/facial-rejuvenation</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/aesthetics-body-confidence/skin-treatments</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/treatments/aesthetics-body-confidence/nuyu-gym</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Referrals -->
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/referral/dental-implant</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/referral/cbct</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.nuyu-dental.co.uk/referral/extractions</loc>
+    <lastmod>2025-06-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+
+</urlset>
